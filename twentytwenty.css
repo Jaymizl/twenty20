@@ -37,7 +37,7 @@
   transition-property: opacity; }
 
 .twentytwenty-before-label:before, .twentytwenty-after-label:before {
-  color: white;
+  color: black;
   font-size: 13px;
   font-family: Arial;
   letter-spacing: 0.1em; }
