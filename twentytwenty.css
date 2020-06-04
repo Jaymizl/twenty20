@@ -40,7 +40,7 @@
   color: white;
   font-size: 13px;
   font-weight: 200;
-  font-family: "Poppins Extra Light", sans-serif;
+  font-family: "Poppins Extra Light";
   letter-spacing: 0.1em; }
 
 .twentytwenty-before-label:before, .twentytwenty-after-label:before {
