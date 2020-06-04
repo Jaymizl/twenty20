@@ -39,7 +39,7 @@
 .twentytwenty-before-label:before, .twentytwenty-after-label:before {
   color: white;
   font-size: 13px;
-  font-family: Poppins;
+  font-family: poppins, sans-serif;
   letter-spacing: 0.1em; }
 
 .twentytwenty-before-label:before, .twentytwenty-after-label:before {
